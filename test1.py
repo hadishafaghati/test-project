@@ -4,3 +4,4 @@ print(name)
 name = "karim"
 input = max
 print(name)
+dir 
