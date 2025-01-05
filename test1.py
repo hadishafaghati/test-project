@@ -6,3 +6,4 @@ input = max
 print(name)
 dir 
 max (2)
+print (true)
