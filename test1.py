@@ -5,3 +5,4 @@ name = "karim"
 input = max
 print(name)
 dir 
+max (2)
